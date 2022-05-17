@@ -1,2 +1,2 @@
-# Seznam-advertising
+# Seznam-advertisements
  
